@@ -1,0 +1,6 @@
+1. The upper and lower boundaries of hemispheres are cooler than the location of the equator. 
+The more north or south the city is located the cooler the temperature is compared with the equator. 
+
+2. Humidity has little to no significance with location. 
+
+3. Southern Hemisphere has a higher wind speed and less cloudy than the Northern Hemisphere.
